@@ -26,3 +26,16 @@
 🛒 Tests a demo shop (SauceDemo): login, cart, sorting, checkout
 
 📂 [Shalwa-Automation-Project-SAP-](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-)
+
+## 📝 Latest LinkedIn posts
+
+<!-- posts:start -->
+- [Hate the blank page?](https://www.linkedin.com/feed/update/urn:li:share:7517224204178661376/) · 2026-10-17
+- [الفن يفتح باب الحوار](https://www.linkedin.com/feed/update/urn:li:share:7516846752663220224/) · 2026-10-16
+- [Three AI projects, one course](https://www.linkedin.com/feed/update/urn:li:share:7516540827913981953/) · 2026-10-15
+- [A door that opens at 30 cm](https://www.linkedin.com/feed/update/urn:li:share:7516148407871184896/) · 2026-10-14
+- [Anatomy of a Selenium framework I built](https://www.linkedin.com/feed/update/urn:li:share:7515774536261337088/) · 2026-10-13
+- [How I test an API in three stages](https://www.linkedin.com/feed/update/urn:li:share:7515412119278813184/) · 2026-10-12
+- [5 أسئلة قبل أتمتة أي اختبار](https://www.linkedin.com/feed/update/urn:li:share:7515021289586331648/) · 2026-10-11
+- [Three levels of AI in your test suite](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514590328318902272/) · 2026-10-10
+<!-- posts:end -->
