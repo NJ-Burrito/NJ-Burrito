@@ -32,6 +32,7 @@
 ## 📝 Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Idea in. Post out.](https://www.linkedin.com/feed/update/urn:li:share:7517594189719752704/) · 2026-10-18
 - [Hate the blank page?](https://www.linkedin.com/feed/update/urn:li:share:7517224204178661376/) · 2026-10-17
 - [الفن يفتح باب الحوار](https://www.linkedin.com/feed/update/urn:li:share:7516846752663220224/) · 2026-10-16
 - [Three AI projects, one course](https://www.linkedin.com/feed/update/urn:li:share:7516540827913981953/) · 2026-10-15
