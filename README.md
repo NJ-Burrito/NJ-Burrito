@@ -43,6 +43,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Code bug or wiring bug?](https://www.linkedin.com/feed/update/urn:li:share:7518311294031302657/) · 2026-10-20
 - [Two age groups, one eight-session course](https://www.linkedin.com/feed/update/urn:li:share:7518000411304460290/) · 2026-10-19
 - [Idea in. Post out.](https://www.linkedin.com/feed/update/urn:li:share:7517594189719752704/) · 2026-10-18
 - [Hate the blank page?](https://www.linkedin.com/feed/update/urn:li:share:7517224204178661376/) · 2026-10-17
@@ -52,7 +53,6 @@
 - [Anatomy of a Selenium framework I built](https://www.linkedin.com/feed/update/urn:li:share:7515774536261337088/) · 2026-10-13
 - [How I test an API in three stages](https://www.linkedin.com/feed/update/urn:li:share:7515412119278813184/) · 2026-10-12
 - [5 أسئلة قبل أتمتة أي اختبار](https://www.linkedin.com/feed/update/urn:li:share:7515021289586331648/) · 2026-10-11
-- [Three levels of AI in your test suite](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514590328318902272/) · 2026-10-10
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
