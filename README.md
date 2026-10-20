@@ -1,35 +1,46 @@
-# Hi, I'm Nader Alzghoul
+<p align="center">
+  <a href="https://nj-burrito.github.io/"><img src="assets/nj-intro-en.gif" width="380" alt="NJ intro: Tests. Teaches. Gives back. Delivers. Nothing ships half-done. Then the folded NJ mark and the name Nader Alzghoul"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nader%20Alzghoul-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nader-alzghoul)
-[![Profile-Wrap](https://img.shields.io/github/stars/NJ-Burrito/profile-wrap?label=Profile-Wrap&style=social)](https://github.com/NJ-Burrito/profile-wrap)
+<h1 align="center">Nader Alzghoul · نادر الزغول</h1>
 
-👨‍💻 QA Automation Engineer in Amman, Jordan
+<p align="center"><b>A QA engineer who tests like a skeptic and teaches like a coach.</b><br>QA Automation Engineer in Amman, Jordan</p>
 
-🔗 [Nader Alzghoul on LinkedIn](https://www.linkedin.com/in/nader-alzghoul)
+<p align="center">
+  <a href="https://nj-burrito.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-nj--burrito.github.io-EFEAE0?style=for-the-badge&labelColor=16171B"></a>
+  <a href="https://www.linkedin.com/in/nader-alzghoul"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nader%20Alzghoul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16171B"></a>
+</p>
 
-🌐 [My website](https://nj-burrito.github.io/)
+---
 
-## ⭐ Featured: Profile-Wrap
+### <img alt="Tester" src="https://img.shields.io/badge/Tester-Tests.-3D7F7A?style=for-the-badge&labelColor=16171B">
 
-🆓 A free, open-source LinkedIn post manager
+- QA Automation Engineer at TaqneenSoft in Amman since August 2026.
+- JFDA portal: Playwright end-to-end tests and a staged automation suite shared with the developers.
+- MOA portal: manual testing, defect reports and Playwright automation.
+- [Shalwa Automation Project](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-): a Java, Selenium, Maven and JUnit framework with 6 page objects.
+- ISTQB CTFL, ISTQB Advanced Test Automation Engineering and ISTQB AI Testing.
 
-✅ Plans your week, writes your posts, checks each one
+### <img alt="Teacher" src="https://img.shields.io/badge/Teacher-Teaches.-34473B?style=for-the-badge&labelColor=16171B">
 
-🛑 Nothing goes out until you tap Allow
+- AI tutor at Zaha Cultural Center: AI, machine learning and robotics with PictoBlox, Arduino and ESP32, for students aged 8 to 16.
+- Ten PictoBlox and Arduino project plans, from a door that opens when a visitor comes closer than 30 cm to an AI fitness coach.
+- Certified AI and Robotics Instructor, Robotna, 132 hours.
 
-📦 [Source on GitHub](https://github.com/NJ-Burrito/profile-wrap)
+### <img alt="Volunteer" src="https://img.shields.io/badge/Volunteer-Gives%20back.-A3573B?style=for-the-badge&labelColor=16171B">
 
-🌐 [Profile-Wrap site](https://nj-burrito.github.io/profile-wrap/)
+- Session facilitator with Generations For Peace since September 2025: 8 practical sessions of volleyball, basketball and art for peace.
+- 3am3dna, since January 2019: management and field assistance for poverty alleviation.
 
-## 🧪 Shalwa Automation Project
+### <img alt="Professional" src="https://img.shields.io/badge/Professional-Delivers.-5A1E26?style=for-the-badge&labelColor=16171B">
 
-☕ Java + Selenium WebDriver + Maven + JUnit, Page Object Model
+- [Profile-Wrap](https://github.com/NJ-Burrito/profile-wrap): an open-source (MIT) tool that plans, writes and checks LinkedIn posts, and posts only through LinkedIn's official API after you tap Allow. [Site](https://nj-burrito.github.io/profile-wrap/)
+- SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
+- Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
-🛒 Tests a demo shop (SauceDemo): login, cart, sorting, checkout
+---
 
-📂 [Shalwa-Automation-Project-SAP-](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-)
-
-## 📝 Latest LinkedIn posts
+### Latest LinkedIn posts
 
 <!-- posts:start -->
 - [Two age groups, one eight-session course](https://www.linkedin.com/feed/update/urn:li:share:7518000411304460290/) · 2026-10-19
@@ -43,3 +54,5 @@
 - [5 أسئلة قبل أتمتة أي اختبار](https://www.linkedin.com/feed/update/urn:li:share:7515021289586331648/) · 2026-10-11
 - [Three levels of AI in your test suite](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514590328318902272/) · 2026-10-10
 <!-- posts:end -->
+
+<p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
