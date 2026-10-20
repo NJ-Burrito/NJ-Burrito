@@ -25,7 +25,7 @@
 
 - AI tutor at Zaha Cultural Center: AI, machine learning and robotics with PictoBlox, Arduino and ESP32, for students aged 8 to 16.
 - Ten PictoBlox and Arduino project plans, from a door that opens when a visitor comes closer than 30 cm to an AI fitness coach.
-- Certified AI and Robotics Instructor, Robotna, 132 hours.
+- AI Advanced Track, GIG | Innovation Nation (Robotna), 132 hours.
 
 ### <img alt="Volunteer" src="https://img.shields.io/badge/Volunteer-Gives%20back.-A3573B?style=for-the-badge&labelColor=16171B">
 
