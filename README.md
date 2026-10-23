@@ -36,7 +36,7 @@
 
 - [Profile-Wrap](https://github.com/NJ-Burrito/Profile-Wrap): an open-source (MIT) tool that plans, writes and checks LinkedIn posts, and posts only through LinkedIn's official API after you tap Allow. [Site](https://nj-burrito.github.io/Profile-Wrap/)
 - [NJ-Kit](https://github.com/NJ-Burrito/NJ-Kit): a free working method for Claude Code, 43 skills that each end with a script that says PASS or FAIL. Open source (MIT), in Arabic and English. [Site](https://nj-burrito.github.io/NJ-Kit/)
-- [QA Wrap](https://github.com/NJ-Burrito/QA-Wrap): a local-first QA toolkit that lives in your browser. It records a test session, links every failure to the action that caused it, and writes the bug report for you. [Site](https://nj-burrito.github.io/QA-Wrap/)
+- [QA-Wrap](https://github.com/NJ-Burrito/QA-Wrap): a local-first QA toolkit that lives in your browser. It records a test session, links every failure to the action that caused it, and writes the bug report for you. [Site](https://nj-burrito.github.io/QA-Wrap/)
 - SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
 - Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
