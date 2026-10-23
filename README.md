@@ -45,6 +45,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [The test pyramid for a web portal](https://www.linkedin.com/feed/update/urn:li:share:7519390873592328193/) · 2026-10-23
 - [Same bug, two layers: API first, then UI](https://www.linkedin.com/feed/update/urn:li:share:7519017308372230145/) · 2026-10-22
 - [Why agents prefer roles to CSS selectors](https://www.linkedin.com/feed/update/urn:li:share:7518669986274525185/) · 2026-10-21
 - [Code bug or wiring bug?](https://www.linkedin.com/feed/update/urn:li:share:7518311294031302657/) · 2026-10-20
@@ -54,7 +55,6 @@
 - [الفن يفتح باب الحوار](https://www.linkedin.com/feed/update/urn:li:share:7516846752663220224/) · 2026-10-16
 - [Three AI projects, one course](https://www.linkedin.com/feed/update/urn:li:share:7516540827913981953/) · 2026-10-15
 - [A door that opens at 30 cm](https://www.linkedin.com/feed/update/urn:li:share:7516148407871184896/) · 2026-10-14
-- [Anatomy of a Selenium framework I built](https://www.linkedin.com/feed/update/urn:li:share:7515774536261337088/) · 2026-10-13
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
