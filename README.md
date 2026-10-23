@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://nj-burrito.github.io/"><img src="assets/nj-intro-en.gif" width="380" alt="NJ intro: Tests. Teaches. Gives back. Delivers. Nothing ships half-done. Then the folded NJ mark and the name Nader Alzghoul"></a>
 </p>
 
