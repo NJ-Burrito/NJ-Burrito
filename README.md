@@ -4,12 +4,28 @@
 
 <h1 align="center">Nader Alzghoul · نادر الزغول</h1>
 
-<p align="center"><b>A QA engineer who tests like a skeptic and teaches like a coach.</b><br>QA Automation Engineer in Amman, Jordan</p>
+<p align="center"><b>QA Automation Engineer in Amman, Jordan</b><br>A QA engineer who tests like a skeptic and teaches like a coach.</p>
+<p align="center" dir="rtl" lang="ar">مهندس أتمتة ضمان الجودة في عمّان، الأردن</p>
 
 <p align="center">
   <a href="https://nj-burrito.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-nj--burrito.github.io-EFEAE0?style=for-the-badge&labelColor=16171B"></a>
   <a href="https://www.linkedin.com/in/nader-alzghoul"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nader%20Alzghoul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16171B"></a>
 </p>
+
+**In short**
+
+- QA for 100+ government e-services (JFDA and MOA portals), with Playwright.
+- Builds free, open-source (MIT) tools, listed below.
+- Teaches AI and robotics to students aged 8 to 16.
+
+| Tool | What it does | Links |
+|---|---|---|
+| **QA-Wrap** | Browser extension: records a test session, links every failure to the action that caused it, and writes the bug report | [Site](https://nj-burrito.github.io/QA-Wrap/) · [Code](https://github.com/NJ-Burrito/QA-Wrap) |
+| **NJ-Kit** | A working method for Claude Code: 40 skills in the kit, each ending in a script that says PASS or FAIL | [Site](https://nj-burrito.github.io/NJ-Kit/) · [Code](https://github.com/NJ-Burrito/NJ-Kit) |
+| **Profile-Wrap** | Plans, writes and checks LinkedIn posts; posts only through LinkedIn's official API after you tap Allow | [Site](https://nj-burrito.github.io/Profile-Wrap/) · [Code](https://github.com/NJ-Burrito/Profile-Wrap) |
+| **Shalwa Automation Project** | Java, Selenium WebDriver, Maven and JUnit framework (Page Object Model) for SauceDemo | [Code](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-) |
+
+**Toolbox:** Playwright · Selenium · Cypress · Appium · Postman · REST Assured · JMeter · Java · Python · SQL · GitHub Actions · Azure DevOps
 
 ---
 
@@ -34,9 +50,7 @@
 
 ### <img alt="Professional" src="https://img.shields.io/badge/Professional-Delivers.-5A1E26?style=for-the-badge&labelColor=16171B">
 
-- [Profile-Wrap](https://github.com/NJ-Burrito/Profile-Wrap): an open-source (MIT) tool that plans, writes and checks LinkedIn posts, and posts only through LinkedIn's official API after you tap Allow. [Site](https://nj-burrito.github.io/Profile-Wrap/)
-- [NJ-Kit](https://github.com/NJ-Burrito/NJ-Kit): a free working method for Claude Code, 43 skills that each end with a script that says PASS or FAIL. Open source (MIT), in Arabic and English. [Site](https://nj-burrito.github.io/NJ-Kit/)
-- [QA-Wrap](https://github.com/NJ-Burrito/QA-Wrap): a local-first QA toolkit that lives in your browser. It records a test session, links every failure to the action that caused it, and writes the bug report for you. [Site](https://nj-burrito.github.io/QA-Wrap/)
+- QA-Wrap, NJ-Kit and Profile-Wrap: three free, open-source (MIT) tools, listed at the top.
 - SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
 - Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
