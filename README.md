@@ -59,6 +59,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
 - [Claude said done. Did it check?](https://www.linkedin.com/feed/update/urn:li:share:7519741931233374210/) · 2026-10-24
 - [The test pyramid for a web portal](https://www.linkedin.com/feed/update/urn:li:share:7519390873592328193/) · 2026-10-23
 - [Same bug, two layers: API first, then UI](https://www.linkedin.com/feed/update/urn:li:share:7519017308372230145/) · 2026-10-22
@@ -68,7 +69,6 @@
 - [Idea in. Post out.](https://www.linkedin.com/feed/update/urn:li:share:7517594189719752704/) · 2026-10-18
 - [Hate the blank page?](https://www.linkedin.com/feed/update/urn:li:share:7517224204178661376/) · 2026-10-17
 - [الفن يفتح باب الحوار](https://www.linkedin.com/feed/update/urn:li:share:7516846752663220224/) · 2026-10-16
-- [Three AI projects, one course](https://www.linkedin.com/feed/update/urn:li:share:7516540827913981953/) · 2026-10-15
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
