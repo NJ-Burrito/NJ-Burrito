@@ -59,6 +59,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [132 hours, then a classroom](https://www.linkedin.com/feed/update/urn:li:share:7520493129825763328/) · 2026-10-26
 - ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
 - [Claude said done. Did it check?](https://www.linkedin.com/feed/update/urn:li:share:7519741931233374210/) · 2026-10-24
 - [The test pyramid for a web portal](https://www.linkedin.com/feed/update/urn:li:share:7519390873592328193/) · 2026-10-23
@@ -68,7 +69,6 @@
 - [Two age groups, one eight-session course](https://www.linkedin.com/feed/update/urn:li:share:7518000411304460290/) · 2026-10-19
 - [Idea in. Post out.](https://www.linkedin.com/feed/update/urn:li:share:7517594189719752704/) · 2026-10-18
 - [Hate the blank page?](https://www.linkedin.com/feed/update/urn:li:share:7517224204178661376/) · 2026-10-17
-- [الفن يفتح باب الحوار](https://www.linkedin.com/feed/update/urn:li:share:7516846752663220224/) · 2026-10-16
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
