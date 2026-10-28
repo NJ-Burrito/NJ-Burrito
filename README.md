@@ -23,6 +23,7 @@
 | **QA-Wrap** | Browser extension: records a test session, links every failure to the action that caused it, and writes the bug report | [Site](https://nj-burrito.github.io/QA-Wrap/) · [Code](https://github.com/NJ-Burrito/QA-Wrap) |
 | **NJ-Kit** | A working method for Claude Code: 40 skills in the kit, each ending in a script that says PASS or FAIL | [Site](https://nj-burrito.github.io/NJ-Kit/) · [Code](https://github.com/NJ-Burrito/NJ-Kit) |
 | **Profile-Wrap** | Plans, writes and checks LinkedIn posts; posts only through LinkedIn's official API after you tap Allow | [Site](https://nj-burrito.github.io/Profile-Wrap/) · [Code](https://github.com/NJ-Burrito/Profile-Wrap) |
+| **Business-Wrap** | Bilingual (Arabic + English) requirements documents from evidence, edited on the page that prints, exported to PDF and DOCX. Claude Code plugin + MCP server | [Site](https://nj-burrito.github.io/Business-Wrap/) · [Code](https://github.com/NJ-Burrito/Business-Wrap) |
 | **Shalwa Automation Project** | Java, Selenium WebDriver, Maven and JUnit framework (Page Object Model) for SauceDemo | [Code](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-) |
 
 **Toolbox:** Playwright · Selenium · Cypress · Appium · Postman · REST Assured · JMeter · Java · Python · SQL · GitHub Actions · Azure DevOps
@@ -50,7 +51,7 @@
 
 ### <img alt="Professional" src="https://img.shields.io/badge/Professional-Delivers.-5A1E26?style=for-the-badge&labelColor=16171B">
 
-- QA-Wrap, NJ-Kit and Profile-Wrap: three free, open-source (MIT) tools, listed at the top.
+- QA-Wrap, NJ-Kit, Profile-Wrap and Business-Wrap: four free, open-source (MIT) tools, listed at the top.
 - SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
 - Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
