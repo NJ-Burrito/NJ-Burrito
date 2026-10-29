@@ -60,6 +60,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Same SRS, written twice?](https://www.linkedin.com/feed/update/urn:li:share:7521569098003058689/) · 2026-10-29
 - [Retry. Widen. Skip. Warn. Green.](https://www.linkedin.com/feed/update/urn:li:share:7521233137641721856/) · 2026-10-28
 - [132 hours, then a classroom](https://www.linkedin.com/feed/update/urn:li:share:7520493129825763328/) · 2026-10-26
 - ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
@@ -69,7 +70,6 @@
 - [Why agents prefer roles to CSS selectors](https://www.linkedin.com/feed/update/urn:li:share:7518669986274525185/) · 2026-10-21
 - [Code bug or wiring bug?](https://www.linkedin.com/feed/update/urn:li:share:7518311294031302657/) · 2026-10-20
 - [Two age groups, one eight-session course](https://www.linkedin.com/feed/update/urn:li:share:7518000411304460290/) · 2026-10-19
-- [Idea in. Post out.](https://www.linkedin.com/feed/update/urn:li:share:7517594189719752704/) · 2026-10-18
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
