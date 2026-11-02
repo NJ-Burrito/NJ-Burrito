@@ -60,6 +60,8 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [QA for 100+ government e-services](https://www.linkedin.com/feed/update/urn:li:share:7523029954448617472/) · 2026-11-02
+- [Sport for peace: eight sessions](https://www.linkedin.com/feed/update/urn:li:share:7522701598352056320/) · 2026-11-01
 - [How an AI agent drives a real browser](https://www.linkedin.com/feed/update/urn:li:share:7521957783597060097/) · 2026-10-30
 - [Same SRS, written twice?](https://www.linkedin.com/feed/update/urn:li:share:7521569098003058689/) · 2026-10-29
 - [Retry. Widen. Skip. Warn. Green.](https://www.linkedin.com/feed/update/urn:li:share:7521233137641721856/) · 2026-10-28
@@ -68,8 +70,6 @@
 - [Claude said done. Did it check?](https://www.linkedin.com/feed/update/urn:li:share:7519741931233374210/) · 2026-10-24
 - [The test pyramid for a web portal](https://www.linkedin.com/feed/update/urn:li:share:7519390873592328193/) · 2026-10-23
 - [Same bug, two layers: API first, then UI](https://www.linkedin.com/feed/update/urn:li:share:7519017308372230145/) · 2026-10-22
-- [Why agents prefer roles to CSS selectors](https://www.linkedin.com/feed/update/urn:li:share:7518669986274525185/) · 2026-10-21
-- [Code bug or wiring bug?](https://www.linkedin.com/feed/update/urn:li:share:7518311294031302657/) · 2026-10-20
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
