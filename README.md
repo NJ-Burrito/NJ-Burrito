@@ -60,6 +60,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [خريطة طريق مهندس الاختبار الآلي](https://www.linkedin.com/feed/update/urn:li:share:7523369586197557248/) · 2026-11-03
 - [QA for 100+ government e-services](https://www.linkedin.com/feed/update/urn:li:share:7523029954448617472/) · 2026-11-02
 - [Sport for peace: eight sessions](https://www.linkedin.com/feed/update/urn:li:share:7522701598352056320/) · 2026-11-01
 - [How an AI agent drives a real browser](https://www.linkedin.com/feed/update/urn:li:share:7521957783597060097/) · 2026-10-30
@@ -69,7 +70,6 @@
 - ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
 - [Claude said done. Did it check?](https://www.linkedin.com/feed/update/urn:li:share:7519741931233374210/) · 2026-10-24
 - [The test pyramid for a web portal](https://www.linkedin.com/feed/update/urn:li:share:7519390873592328193/) · 2026-10-23
-- [Same bug, two layers: API first, then UI](https://www.linkedin.com/feed/update/urn:li:share:7519017308372230145/) · 2026-10-22
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
