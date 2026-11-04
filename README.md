@@ -1,8 +1,10 @@
+<h1 align="center">Nader Alzghoul (NJ-Burrito) · نادر الزغول</h1>
+
+<p align="center"><b>Nader Alzghoul (NJ-Burrito)</b> is a QA Automation Engineer in Amman, Jordan. Portfolio: <a href="https://nj-burrito.github.io/">nj-burrito.github.io</a> · <a href="https://www.linkedin.com/in/nader-alzghoul">LinkedIn</a> · <a href="https://github.com/NJ-Burrito">GitHub</a><br>Tools: <a href="https://nj-burrito.github.io/QA-Wrap/">QA-Wrap</a> · <a href="https://nj-burrito.github.io/NJ-Kit/">NJ-Kit</a> · <a href="https://nj-burrito.github.io/Profile-Wrap/">Profile-Wrap</a> · <a href="https://nj-burrito.github.io/Business-Wrap/">Business-Wrap</a> · <a href="https://nj-burrito.github.io/story-wrap/">Story-Wrap series</a></p>
+
 <p align="center">
   <a href="https://nj-burrito.github.io/"><img src="assets/nj-intro-en.gif" width="380" alt="NJ intro: Tests. Teaches. Gives back. Delivers. Nothing ships half-done. Then the folded NJ mark and the name Nader Alzghoul"></a>
 </p>
-
-<h1 align="center">Nader Alzghoul · نادر الزغول</h1>
 
 <p align="center"><b>QA Automation Engineer in Amman, Jordan</b><br>A QA engineer who tests like a skeptic and teaches like a coach.</p>
 <p align="center" dir="rtl" lang="ar">مهندس أتمتة ضمان الجودة في عمّان، الأردن</p>
