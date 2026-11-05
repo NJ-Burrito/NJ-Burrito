@@ -62,6 +62,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Locator strategy in one ladder](https://www.linkedin.com/feed/update/urn:li:share:7524109462744408066/) · 2026-11-05
 - [Playwright Test Agents: Planner, Generator, Healer](https://www.linkedin.com/feed/update/urn:li:share:7523743481417334784/) · 2026-11-04
 - [خريطة طريق مهندس الاختبار الآلي](https://www.linkedin.com/feed/update/urn:li:share:7523369586197557248/) · 2026-11-03
 - [QA for 100+ government e-services](https://www.linkedin.com/feed/update/urn:li:share:7523029954448617472/) · 2026-11-02
@@ -71,7 +72,6 @@
 - [Retry. Widen. Skip. Warn. Green.](https://www.linkedin.com/feed/update/urn:li:share:7521233137641721856/) · 2026-10-28
 - [132 hours, then a classroom](https://www.linkedin.com/feed/update/urn:li:share:7520493129825763328/) · 2026-10-26
 - ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
-- [Claude said done. Did it check?](https://www.linkedin.com/feed/update/urn:li:share:7519741931233374210/) · 2026-10-24
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
