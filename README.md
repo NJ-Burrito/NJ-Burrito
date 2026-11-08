@@ -62,6 +62,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [ما هو Playwright Test Agents؟ شرح بسيط](https://www.linkedin.com/feed/update/urn:li:share:7525185442724556801/) · 2026-11-08
 - [Locator strategy in one ladder](https://www.linkedin.com/feed/update/urn:li:share:7524109462744408066/) · 2026-11-05
 - [Playwright Test Agents: Planner, Generator, Healer](https://www.linkedin.com/feed/update/urn:li:share:7523743481417334784/) · 2026-11-04
 - [خريطة طريق مهندس الاختبار الآلي](https://www.linkedin.com/feed/update/urn:li:share:7523369586197557248/) · 2026-11-03
@@ -71,7 +72,6 @@
 - [Same SRS, written twice?](https://www.linkedin.com/feed/update/urn:li:share:7521569098003058689/) · 2026-10-29
 - [Retry. Widen. Skip. Warn. Green.](https://www.linkedin.com/feed/update/urn:li:share:7521233137641721856/) · 2026-10-28
 - [132 hours, then a classroom](https://www.linkedin.com/feed/update/urn:li:share:7520493129825763328/) · 2026-10-26
-- ["Cannot reproduce." Proof attached.](https://www.linkedin.com/feed/update/urn:li:share:7520111946440798209/) · 2026-10-25
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
