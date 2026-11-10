@@ -62,6 +62,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Five questions before you automate a test](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525921386318639104/) · 2026-11-10
 - [A red build is not always a bug](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525566568752320512/) · 2026-11-09
 - [ما هو Playwright Test Agents؟ شرح بسيط](https://www.linkedin.com/feed/update/urn:li:share:7525185442724556801/) · 2026-11-08
 - [Locator strategy in one ladder](https://www.linkedin.com/feed/update/urn:li:share:7524109462744408066/) · 2026-11-05
@@ -71,7 +72,6 @@
 - [Sport for peace: eight sessions](https://www.linkedin.com/feed/update/urn:li:share:7522701598352056320/) · 2026-11-01
 - [How an AI agent drives a real browser](https://www.linkedin.com/feed/update/urn:li:share:7521957783597060097/) · 2026-10-30
 - [Same SRS, written twice?](https://www.linkedin.com/feed/update/urn:li:share:7521569098003058689/) · 2026-10-29
-- [Retry. Widen. Skip. Warn. Green.](https://www.linkedin.com/feed/update/urn:li:share:7521233137641721856/) · 2026-10-28
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
