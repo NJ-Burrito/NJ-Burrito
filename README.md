@@ -1,6 +1,6 @@
 <h1 align="center">Nader Alzghoul (NJ-Burrito) · نادر الزغول</h1>
 
-<p align="center"><b>Nader Alzghoul (NJ-Burrito)</b> is a QA Automation Engineer in Amman, Jordan. Portfolio: <a href="https://nj-burrito.github.io/">nj-burrito.github.io</a> · <a href="https://www.linkedin.com/in/nader-alzghoul">LinkedIn</a> · <a href="https://github.com/NJ-Burrito">GitHub</a><br>Tools: <a href="https://nj-burrito.github.io/QA-Wrap/">QA-Wrap</a> · <a href="https://nj-burrito.github.io/NJ-Kit/">NJ-Kit</a> · <a href="https://nj-burrito.github.io/Profile-Wrap/">Profile-Wrap</a> · <a href="https://nj-burrito.github.io/Business-Wrap/">Business-Wrap</a> · <a href="https://nj-burrito.github.io/story-wrap/">Story-Wrap series</a></p>
+<p align="center"><b>Nader Alzghoul (NJ-Burrito)</b> is a QA Automation Engineer in Amman, Jordan. Portfolio: <a href="https://nj-burrito.github.io/">nj-burrito.github.io</a> · <a href="https://www.linkedin.com/in/nader-alzghoul">LinkedIn</a> · <a href="https://github.com/NJ-Burrito">GitHub</a><br>Tools: <a href="https://nj-burrito.github.io/QA-Wrap/">QA-Wrap</a> · <a href="https://nj-burrito.github.io/NJ-Kit/">NJ-Kit</a> · <a href="https://nj-burrito.github.io/Profile-Wrap/">Profile-Wrap</a> · <a href="https://nj-burrito.github.io/Business-Wrap/">Business-Wrap</a> · <a href="https://nj-burrito.github.io/NJ-Whip/">NJ-Whip</a> · <a href="https://nj-burrito.github.io/story-wrap/">Story-Wrap series</a></p>
 
 <p align="center">
   <a href="https://nj-burrito.github.io/"><img src="assets/nj-intro-en.gif" width="380" alt="NJ intro: Tests. Teaches. Gives back. Delivers. Nothing ships half-done. Then the folded NJ mark and the name Nader Alzghoul"></a>
@@ -26,6 +26,7 @@
 | **NJ-Kit** | A working method for Claude Code: 40 skills in the kit, each ending in a script that says PASS or FAIL | [Site](https://nj-burrito.github.io/NJ-Kit/) · [Code](https://github.com/NJ-Burrito/NJ-Kit) |
 | **Profile-Wrap** | Plans, writes and checks LinkedIn posts; posts only through LinkedIn's official API after you tap Allow | [Site](https://nj-burrito.github.io/Profile-Wrap/) · [Code](https://github.com/NJ-Burrito/Profile-Wrap) |
 | **Business-Wrap** | Bilingual (Arabic + English) requirements documents from evidence, edited on the page that prints, exported to PDF and DOCX. Claude Code plugin + MCP server | [Site](https://nj-burrito.github.io/Business-Wrap/) · [Code](https://github.com/NJ-Burrito/Business-Wrap) |
+| **NJ-Whip** | An on-screen whip for Claude Code on Windows: swing it with the mouse and it cracks and types a short message that steers how Claude works. 15 whips, one exe of about 6.5 MB | [Site](https://nj-burrito.github.io/NJ-Whip/) · [Code](https://github.com/NJ-Burrito/NJ-Whip) |
 | **Shalwa Automation Project** | Java, Selenium WebDriver, Maven and JUnit framework (Page Object Model) for SauceDemo | [Code](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-) |
 
 **Toolbox:** Playwright · Selenium · Cypress · Appium · Postman · REST Assured · JMeter · Java · Python · SQL · GitHub Actions · Azure DevOps
@@ -53,7 +54,7 @@
 
 ### <img alt="Professional" src="https://img.shields.io/badge/Professional-Delivers.-5A1E26?style=for-the-badge&labelColor=16171B">
 
-- QA-Wrap, NJ-Kit, Profile-Wrap and Business-Wrap: four free, open-source (MIT) tools, listed at the top.
+- QA-Wrap, NJ-Kit, Profile-Wrap, Business-Wrap and NJ-Whip: five free, open-source (MIT) tools, listed at the top.
 - SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
 - Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
