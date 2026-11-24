@@ -18,7 +18,7 @@
 **In short**
 
 - QA for 100+ government e-services (JFDA and MOA portals), with Playwright.
-- Builds free, open-source (MIT) tools, listed below.
+- Builds free, open-source tools, listed below.
 - Teaches AI and robotics to students aged 8 to 16.
 
 | Tool | What it does | بالعربية | Links |
@@ -57,7 +57,7 @@
 
 ### <img alt="Professional" src="https://img.shields.io/badge/Professional-Delivers.-5A1E26?style=for-the-badge&labelColor=16171B">
 
-- QA-Wrap, NJ-Kit, Profile-Wrap, Business-Wrap, NJ-Whip, NJ-Flush and Story-Wrap: seven free, open-source (MIT) tools, listed at the top.
+- QA-Wrap, NJ-Kit, Profile-Wrap, Business-Wrap, NJ-Whip, NJ-Flush and Story-Wrap: seven free, open-source tools, listed at the top.
 - SRS documents built from portal evidence, and bilingual Arabic and English user, staff and training manuals for the JFDA portal.
 - Diploma in AI and Robotics Engineering, Al-Balqa Applied University. Advanced Data Analytics, Correlation One, 250 hours.
 
