@@ -67,6 +67,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Cart persistence: what the test really checks](https://www.linkedin.com/feed/update/urn:li:share:7531696955526402049/) · 2026-11-26
 - [NJ-Whip: 15 whips, each with its own crack](https://www.linkedin.com/feed/update/urn:li:share:7530991033845940224/) · 2026-11-24
 - [One portfolio, English and Arabic](https://www.linkedin.com/feed/update/urn:li:share:7530674819093241856/) · 2026-11-23
 - [Story-Wrap: the tool for Arabic story reels](https://www.linkedin.com/feed/update/urn:li:share:7530301896767524864/) · 2026-11-22
@@ -76,7 +77,6 @@
 - [NJ-Whip: steer Claude Code with a crack](https://www.linkedin.com/feed/update/urn:li:share:7528473213023174656/) · 2026-11-17
 - [6 page objects, one reviewable flow](https://www.linkedin.com/feed/update/urn:li:share:7526638812597207042/) · 2026-11-12
 - [Five questions before you automate a test](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525921386318639104/) · 2026-11-10
-- [A red build is not always a bug](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525566568752320512/) · 2026-11-09
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
