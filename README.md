@@ -44,7 +44,7 @@
 - JFDA portal: Playwright end-to-end tests and a staged automation suite shared with the developers.
 - MOA portal: manual testing, defect reports and Playwright automation.
 - [Shalwa Automation Project](https://github.com/NJ-Burrito/Shalwa-Automation-Project-SAP-): a Java, Selenium, Maven and JUnit framework with 6 page objects.
-- ISTQB CTFL, ISTQB Advanced Test Automation Engineering and ISTQB AI Testing.
+- ISTQB CTFL. ISTQB Advanced Test Automation Engineering (CT-TAE) and ISTQB AI Testing (CT-AI) expected 2027.
 
 ### <img alt="Teacher" src="https://img.shields.io/badge/Teacher-Teaches.-34473B?style=for-the-badge&labelColor=16171B">
 
