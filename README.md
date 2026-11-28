@@ -68,6 +68,7 @@
 ### Latest LinkedIn posts
 
 <!-- posts:start -->
+- [Selenium and Playwright: the same flow twice](https://www.linkedin.com/feed/update/urn:li:share:7532417959336640512/) · 2026-11-28
 - [Severity vs priority with one example each](https://www.linkedin.com/feed/update/urn:li:share:7532063125639041024/) · 2026-11-27
 - [Cart persistence: what the test really checks](https://www.linkedin.com/feed/update/urn:li:share:7531696955526402049/) · 2026-11-26
 - [NJ-Whip: 15 whips, each with its own crack](https://www.linkedin.com/feed/update/urn:li:share:7530991033845940224/) · 2026-11-24
@@ -77,7 +78,6 @@
 - [Not only an SRS: 17 document types, one start page](https://www.linkedin.com/feed/update/urn:li:share:7529526540829851649/) · 2026-11-20
 - [Let your coding agent read the bug report](https://www.linkedin.com/feed/update/urn:li:share:7528805402877247488/) · 2026-11-18
 - [NJ-Whip: steer Claude Code with a crack](https://www.linkedin.com/feed/update/urn:li:share:7528473213023174656/) · 2026-11-17
-- [6 page objects, one reviewable flow](https://www.linkedin.com/feed/update/urn:li:share:7526638812597207042/) · 2026-11-12
 <!-- posts:end -->
 
 <p align="center"><sub>Nothing ships half-done. · لا شيء يُسلَّم ناقصًا.</sub></p>
